@@ -35,6 +35,7 @@
     "@cycle/rxjs-run": "*",
     "xstream": "*",
     "@cycle/dom": "*",
+    "@cycle/http": "*",
     "snabbdom": "*"
   }
 }
